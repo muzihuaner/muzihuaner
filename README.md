@@ -2,7 +2,7 @@
 
 <img align="right" width="512" height="256" src="https://static.miantiao.me/share/2023/wDiISS/home.svg">
 
-- 👨🏻‍💻 非专业程序猿、极客、摄影师、软路由，业余无线电爱好者
+- 👨🏻‍💻 非专业程序猿、极客、摄影师、业余无线电爱好者
 - 💻 毕业于ai专业的业余选手
 - 🪐 Self-hosting 爱好者
 - 🛡️ Homelab 不理性玩家
