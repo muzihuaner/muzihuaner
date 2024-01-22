@@ -45,7 +45,6 @@
 
 - [快点搜](https://quickso.cn) 
 - [知链直链](https://zhiurl.cn) 
-- [SHSSEDU](https://shssedu.ac.cn)
 - [Kiwi浏览器中文网](https://kiwibrowsercn.github.io/)   
 ...
 ---
