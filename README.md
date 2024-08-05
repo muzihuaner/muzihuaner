@@ -7,7 +7,7 @@
 - 🪐 Self-hosting 爱好者
 - 🛡️ Homelab 不理性玩家
 
-<a href="https://huangetech.gitee.io/pay/index2.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;"></a>   
+<a href="https://pay.quickso.cn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;"></a>   
 你可以在这里关注我：
 
 [![ghpvc](https://komarev.com/ghpvc/?username=muzihuaner&color=blue&style=flat-square&label=Blog)](https://blog.quickso.cn)
