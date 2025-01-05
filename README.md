@@ -19,7 +19,8 @@
 
 
 #### Languages & Frameworks
-
+[![](https://img.shields.io/badge/-Python-269539?style=for-the-badge&logo=python&logoColor=ffffff)](https://python.org/)
+[![](https://img.shields.io/badge/-K3s-f7e018?style=for-the-badge&logo=k3s&logoColor=ffffff)](https://k3s.io/)
 [![](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=ffffff)](https://yarnpkg.com/)
@@ -28,13 +29,13 @@
 [![](https://img.shields.io/badge/-NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Serverless-fd5750?style=for-the-badge&logo=serverless&logoColor=ffffff)](https://www.serverless.com/)
-[![](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)](https://vitejs.dev/)   
+[![](https://img.shields.io/badge/-Serverless-fd5750?style=for-the-badge&logo=serverless&logoColor=ffffff)](https://www.serverless.com/) 
 [![](https://img.shields.io/badge/-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-pnpm-f69220?style=for-the-badge&logo=pnpm&logoColor=ffffff)](https://pnpm.io/)
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/-MYSQL-47a248?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
