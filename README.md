@@ -16,8 +16,6 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fmuzihuaner&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/muzihuaner)
 
 ---
-
-
 #### Languages & Frameworks
 [![](https://img.shields.io/badge/-Python-269539?style=for-the-badge&logo=python&logoColor=ffffff)](https://python.org/)
 [![](https://img.shields.io/badge/-K3s-f7e018?style=for-the-badge&logo=k3s&logoColor=ffffff)](https://k3s.io/)
@@ -38,7 +36,7 @@
 [![](https://img.shields.io/badge/-MYSQL-47a248?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-
+[![](https://img.shields.io/badge/-Caddy-269539?style=for-the-badge&logo=caddy&logoColor=ffffff)](https://nodejs.org/)
 #### Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@muzihuaner.readme?theme=asoul" height="100" align="right"></a>
 [![](https://img.shields.io/badge/OS-Debian%20Linux-33aadd?style=for-the-badge&logo=debian&logoColor=ffffff)](https://www.debian.org/)
