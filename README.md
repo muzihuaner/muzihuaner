@@ -1,6 +1,6 @@
 # 👋 Hi,我是木子欢儿  
 
-<img align="right" width="512" height="256" src="https://static.miantiao.me/share/2023/wDiISS/home.svg">
+<img align="right" alt="GIF" src="https://github.com/Charmve/Charmve/raw/master/OctoCharmve/code.gif" width="343" height="256" title="Do what you like, and do it best!"> 
 
 - 👨🏻‍💻 非专业程序猿、极客、摄影师、业余无线电爱好者
 - 💻 毕业于ai专业的业余选手
@@ -16,26 +16,35 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fmuzihuaner&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/muzihuaner)
 
 ---
-<img align="right" alt="GIF" src="https://github.com/Charmve/Charmve/raw/master/OctoCharmve/code.gif" width="343" height="256" title="Do what you like, and do it best!"> 
 
-**Languages and Frameworks**   
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218292066-c36545bd-47ac-4838-8958-1399009c3cc8.png" alt="SQLite" title="SQLite"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291328-d57affa6-dba3-4ba1-90ff-25cb273fcd84.png" alt="MongoDB" title="mongodb"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291286-3d84ebcb-c266-454b-bce2-b2f4ac01886f.png" alt="Djongo" title="Djongo"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 
-**Tools and Environments**   
-[![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/macOS-Monterey-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)   
-<code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+#### Languages & Frameworks
+
+[![](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=ffffff)](https://yarnpkg.com/)
+[![](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/-NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Serverless-fd5750?style=for-the-badge&logo=serverless&logoColor=ffffff)](https://www.serverless.com/)
+[![](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)](https://vitejs.dev/)   
+[![](https://img.shields.io/badge/-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/-pnpm-f69220?style=for-the-badge&logo=pnpm&logoColor=ffffff)](https://pnpm.io/)
+[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
+[![](https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+
+#### Platform & Tools
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@muzihuaner.readme?theme=asoul" height="100" align="right"></a>
+[![](https://img.shields.io/badge/OS-Debian%20Linux-33aadd?style=for-the-badge&logo=debian&logoColor=ffffff)](https://www.debian.org/)
+[![](https://img.shields.io/badge/macOS-Monterey-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+[![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
+[![](https://img.shields.io/badge/Realme-GTNeo6se-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.realme.com/cn/realme-gt-neo-6-se)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
     
 ## GAME
 
