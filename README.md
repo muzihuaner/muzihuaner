@@ -39,7 +39,7 @@
 [![](https://img.shields.io/badge/-Caddy-269539?style=for-the-badge&logo=caddy&logoColor=ffffff)](https://nodejs.org/)
 #### Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@muzihuaner.readme?theme=asoul" height="100" align="right"></a>
-[![](https://img.shields.io/badge/OS-Debian%20Linux-33aadd?style=for-the-badge&logo=debian&logoColor=ffffff)](https://www.debian.org/)
+[![](https://img.shields.io/badge/OS-Debian-33aadd?style=for-the-badge&logo=debian&logoColor=ffffff)](https://www.debian.org/)
 [![](https://img.shields.io/badge/macOS-Monterey-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
 [![](https://img.shields.io/badge/Realme-GTNeo6se-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.realme.com/cn/realme-gt-neo-6-se)
