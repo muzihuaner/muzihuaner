@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Charmve/Charmve/raw/master/OctoCharmve/code.gif" width="300" height="230" title="Do what you like, and do it best!"> 
 
-- 👨🏻‍💻 非专业程序猿、极客、摄影师、业余无线电爱好者
+- 👨🏻‍💻 非专业程序猿、极客、摄影师、业余无线电爱好者、IT运维
 - 💻 毕业于ai专业的业余选手
 - 🪐 Self-hosting 爱好者
 - 🛡️ Homelab 不理性玩家
