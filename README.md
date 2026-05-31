@@ -47,14 +47,10 @@
 [![](https://img.shields.io/badge/Realme-GTNeo6se-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.realme.com/cn/realme-gt-neo-6-se)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
     
-## GAME
 
-![](https://steamcard.vercel.appcard?steamid=76561198984594957)
-![Steam Card](https://steamcard.vercel.app/card/76561198984594957/dark,badge,group)
 ## 折腾的项目
 
 - [快点搜](https://quickso.cn) 
-- [知链直链](https://zhiurl.cn) 
 - [Kiwi浏览器中文网](https://kiwibrowsercn.github.io/)   
 ...
 ---
